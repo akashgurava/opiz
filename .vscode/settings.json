@@ -1,0 +1,13 @@
+{
+  "cSpell.words": [
+    "opiz",
+    "pnpm",
+    "tailwindcss",
+    "tauri",
+    "vite",
+    "vitejs"
+  ],
+  "files.associations": {
+    "*.css": "tailwindcss"
+  }
+}
